@@ -2,7 +2,7 @@ import pyautogui
 import time
 import pandas as pd
 
-pyautogui.PAUSE=1.1
+pyautogui.PAUSE=1.2
 #Passo 1: 
 #Clicar na tecla de iniciar;
 pyautogui.press("win")
