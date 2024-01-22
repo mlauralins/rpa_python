@@ -4,7 +4,7 @@ Projeto realizado com o auxílio das aulas ministradas pela Hashtag Treinamentos
 
 ## Objetivo: 
 
-Criar Bot, com linguagem Python, capaz de acessar página web e realizar o cadastros de informações, presentes em uma base de dados, de forma automatizada.
+Criar Bot, com linguagem Python, capaz de acessar página web e realizar o cadastro de informações, presentes em uma base de dados, de forma automatizada.
 
 ## 🛠️Ferramentas utilizadas
 ### Pandas:
